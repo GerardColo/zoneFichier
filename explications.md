@@ -4,14 +4,26 @@ voici un exemple de liste
 + aaaaa
 + bbbbb
 + ccccc
+2 fois enter pour un saut de ligne
+
 mettre en **gras** une partie
+
 mettre en *italique* une partie
+
 ---
-ligne horizontale
+ligne horizontale continue
+
+
 tableau
+
 |prénom|nom|
+
 |---|---|
+
 |gérard|colo|
+
 |marcel|dupont|
+
 exemple de lien
-[lien vers logic systems](www.logicsystems.fr)
+
+[lien vers logic systems :](www.logicsystems.fr)
