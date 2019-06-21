@@ -15,7 +15,8 @@ mettre en *italique* une partie
 ligne horizontale continue
 
 
-tableau ne pas oublier les espaces
+tableau ne pas oublier les espaces et une ligne blanche avant la table
+
 
 | prénom | nom |
 
@@ -23,7 +24,7 @@ tableau ne pas oublier les espaces
 
 | gérard | colo |
 
-| marcel |dupont |
+| marcel | dupont |
 
 exemple de lien :
 
