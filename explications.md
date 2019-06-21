@@ -18,13 +18,10 @@ ligne horizontale continue
 tableau ne pas oublier les espaces et une ligne blanche avant la table
 
 
-| prénom | nom |
-
+| Prénom | Nom |
 | --- | --- |
-
-| gérard | colo |
-
-| marcel | dupont |
+| Gérard | Colo |
+| Marcel | Dupont |
 
 exemple de lien :
 
