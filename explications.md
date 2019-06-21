@@ -4,6 +4,7 @@ voici un exemple de liste
 + aaaaa
 + bbbbb
 + ccccc
+
 2 fois enter pour un saut de ligne
 
 mettre en **gras** une partie
@@ -14,16 +15,16 @@ mettre en *italique* une partie
 ligne horizontale continue
 
 
-tableau
+tableau ne pas oublier les espaces
 
-|prénom|nom|
+| prénom | nom |
 
-|---|---|
+| --- | --- |
 
-|gérard|colo|
+| gérard | colo |
 
-|marcel|dupont|
+| marcel |dupont |
 
-exemple de lien
+exemple de lien :
 
-[lien vers logic systems :](www.logicsystems.fr)
+[lien vers logic systems](www.logicsystems.fr)
